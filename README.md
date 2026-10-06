@@ -59,7 +59,7 @@ It uses multiple sensors and AI models to identify people and hazards, estimate 
                          ↓
               ┌─────────────────────┐
               │ Localization &      │
-              │ Mapping              │
+              │ Mapping             │
               └──────────┬──────────┘
                          ↓
               ┌─────────────────────┐
@@ -256,9 +256,10 @@ By combining autonomous flight, AI perception, sensor fusion, and intelligent mi
 
 ---
 
-## 👥 Team RescueFusion
+## 👥 Team Tesla 2
 
-**Team:** RescueFusion
+**Team:** Tesla 2
+**Project:** RescueFusion
 **Institution:** Sushila Devi Bansal College of Technology, Indore
 **Smart India Hackathon 2026**
 
